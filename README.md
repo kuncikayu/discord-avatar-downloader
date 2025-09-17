@@ -1,5 +1,6 @@
-# discord-avatar-downloader
+# Discord Avatar Downloader
 
-`bash
+Running the Script
+```bash
 python download_avatars.py users.txt
-`
+```
